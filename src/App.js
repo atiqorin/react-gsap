@@ -45,7 +45,7 @@ function App() {
         <StyledTitle>Back to smooth and firm skin</StyledTitle>
         <ParallaxHeroSection />
       </StyledHeroSection>
-      <ProductSection />>
+      <ProductSection />
       <ContentSection
         title={"Take Care"}
         text={
