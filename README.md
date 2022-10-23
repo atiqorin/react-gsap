@@ -2,6 +2,8 @@
 
 This code was created while following a tutorial on how to use GSAP with React.
 
+View the app at this link: [react-gsap](https://atiqorin.github.io/react-gsap/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
