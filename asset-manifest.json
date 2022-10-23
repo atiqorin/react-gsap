@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-gsap/static/js/main.9a988ab0.js",
+    "main.js": "/react-gsap/static/js/main.5ffdbb54.js",
     "static/js/787.50d7cbef.chunk.js": "/react-gsap/static/js/787.50d7cbef.chunk.js",
     "static/media/landscapeOne.png": "/react-gsap/static/media/landscapeOne.f48bab1c2d2a52d76b5c.png",
     "static/media/landscapeTwo.png": "/react-gsap/static/media/landscapeTwo.e1787a379b66147e28cd.png",
@@ -81,10 +81,10 @@
     "static/media/0004.png": "/react-gsap/static/media/0004.df1f0cd71f6cde394d7d.png",
     "static/media/logo.svg": "/react-gsap/static/media/logo.c130aa657a742d0ea82002ad26966b6c.svg",
     "index.html": "/react-gsap/index.html",
-    "main.9a988ab0.js.map": "/react-gsap/static/js/main.9a988ab0.js.map",
+    "main.5ffdbb54.js.map": "/react-gsap/static/js/main.5ffdbb54.js.map",
     "787.50d7cbef.chunk.js.map": "/react-gsap/static/js/787.50d7cbef.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9a988ab0.js"
+    "static/js/main.5ffdbb54.js"
   ]
 }
