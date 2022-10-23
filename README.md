@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React GSAP Animations App
+
+This code was created while following a tutorial on how to use GSAP with React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
